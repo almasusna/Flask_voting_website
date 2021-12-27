@@ -1,8 +1,7 @@
 # capstone
-Hey Team(Erich and Nikoleta), here are the list of libraries you need to add and the list of commands you need to execute before running the code.
+Here is website created with instruction by CoreyMSchafer. Backend is run by Python based Flask framework.
 
-#First of all you need to download ubuntu shell for windows, because these commands are linux commands:
-#Then:
+# List of libraries and commands used
 >pip install flask   #if you don't have pip intall it
 >export FLASK_APP=flaskblog.py
 
