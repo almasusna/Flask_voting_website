@@ -1,6 +1,6 @@
 # capstone
-Here is website created with instruction by CoreyMSchafer. Backend is run by Python based Flask framework.
-https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog
+Online voting website. Paper based scantegrity system converted into a website. 
+Backend is run with Python based Flask framework.
 
 # List of libraries and commands used
 >pip install flask   #if you don't have pip intall it
